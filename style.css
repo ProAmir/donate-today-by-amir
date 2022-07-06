@@ -1,0 +1,34 @@
+body{
+margin: 0;
+
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.hero-section{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    padding: 15% ;
+    background-size: cover;
+    
+
+}
+.hero-title {
+    color: white;
+    text-align: center;
+    align: center;
+}
+.hero-title h1{
+    font-size: 50px;
+}
+.hero-title p{
+    margin-bottom: 30px;
+}
+.donate-button{
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 10px 30px ;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    
+}
