@@ -8,8 +8,9 @@ font-family: 'Roboto Slab', serif;
 .hero-section{
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
-    padding: 15% ;
+    padding: 11% ;
     background-size: cover;
+    
     
 
 }
@@ -30,5 +31,93 @@ font-family: 'Roboto Slab', serif;
     padding: 10px 30px ;
     border-radius: 5px;
     color: rgb(255, 255, 255);
+}
+/*donate area*/
+.custom-donate{
+    align-items: center;
+    padding: 7%;
+}
+.donate-now{
+    text-align: center;
+}
+.donate-now h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.donate-now p{
+    color: #dedede;
+    margin-bottom: 60px;
+}
+.donate-amount{
+   margin-bottom: 60px;
     
+}
+.donate-amount span{
+    background-color: #f7f7f7e1;
+    color: #c0bbbb;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 30px;
+    margin-left: 20px;
+}
+#fixed-color{
+    background-color: #ffeeee;
+    border: 2px solid #ff5959;
+    border-radius: 3px;
+
+}
+
+.placeholder{
+    border: none;
+}
+.hr-width{
+   border-top: 1px solid #dfdfdf;
+    width:50%;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+.donate-plan-amir {
+    padding: 2% 10% 10% 10%;
+}
+
+.donate-plan-div {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.sdonate-plan-div h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.donate-plan-div p {
+    color: #949494;
+}
+
+.flex-amir {
+    display: flex;
+}
+
+.flex-amir div {
+    padding: 2%;
+    margin-left: 15px;
+    border-radius: 1%;
+}
+
+.icon-box-food {
+    background-color: #EDF5F6;
+}
+
+.icon-box-shelter {
+    background-color: #FFEEEE;
+}
+
+.icon-box-child {
+    background-color: #FFF4D6;
 }
