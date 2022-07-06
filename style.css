@@ -9,15 +9,12 @@ font-family: 'Roboto Slab', serif;
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     padding: 11% ;
-    background-size: cover;
-    
-    
-
+    background-size: cover; 
 }
 .hero-title {
     color: white;
     text-align: center;
-    align: center;
+    
 }
 .hero-title h1{
     font-size: 50px;
@@ -76,14 +73,8 @@ font-family: 'Roboto Slab', serif;
     margin-bottom: 30px;
 }
 
-
-
-
-
-
-
 .donate-plan-amir {
-    padding: 2% 10% 10% 10%;
+    padding: 2% 10% 5% 10%;
 }
 
 .donate-plan-div {
@@ -91,7 +82,7 @@ font-family: 'Roboto Slab', serif;
     margin-bottom: 70px;
 }
 
-.sdonate-plan-div h1 {
+.donate-plan-div h1 {
     font-size: 40px;
     font-weight: 700;
 }
@@ -120,4 +111,92 @@ font-family: 'Roboto Slab', serif;
 
 .icon-box-child {
     background-color: #FFF4D6;
+}
+
+.image-area-bonus{
+    display: flex; 
+    
+      
+}
+.vua{
+    border-radius: 10px;
+}
+
+.vua img{
+    width: 80%;
+    margin-left: 25%;
+    border-radius: 5%;
+   
+}
+
+
+.text-area-bonus{
+margin-left: 80px;
+width: 50%;
+}
+.text-area-bonus h1{
+    font-size: 40px;
+}
+.text-area-bonus p{
+    margin-bottom: 40px;
+}
+
+
+.get-update {
+    padding: 1% 10% 10% 10%;
+}
+
+.Subscribe-divison {
+    text-align: center;
+}
+
+.Subscribe-divison h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.email-area {
+    padding: 6%;
+    background-color: #FFF4D6;
+}
+
+.input-email {
+    border: none;
+    background-color: #cec7c7;
+    padding: 13px 10px 15px 10px;
+    border-radius: 2%;
+    font-size: 15px;
+}
+
+.input-sub {
+    color: white;
+    border: none;
+    background-color: #FF5959;
+    padding: 15px 10px 16px 15px;
+    border-radius: 2%;
+    font-size: 13px;
+    margin: -4px;
+}
+
+
+.footer-section {
+    font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 3%;
+}
+
+.footer h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+    color: #FF5959;
+    margin-bottom: 0;
+}
+
+.footer p {
+    color: #FFFFFF;
+    font-weight: 100;
 }
